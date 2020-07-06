@@ -20,9 +20,6 @@
 </div>
 
 
-
-
-
 <?php
 
 $number1 = $_POST["n1"];
@@ -45,8 +42,6 @@ else if($operator=="*"){
 }
 
 echo "Result :",$result;
-
-
 
  ?>
 
