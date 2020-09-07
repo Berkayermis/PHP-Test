@@ -1,2 +1,2 @@
 # PHP-Test
-PHP test
+Basic calculator with PHP
